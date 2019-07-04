@@ -1,0 +1,4 @@
+loop 2
+d30
+y10
+reset
